@@ -1,0 +1,103 @@
+[
+  {
+    "title": "Division I: Foundations",
+    "pages": [
+      { "title": "Vol 01: Manifesto", "path": "VOL_01_MANIFESTO" },
+      { "title": "Vol 02: Topology", "path": "VOL_02_TOPOLOGY" },
+      { "title": "Vol 03: Workers", "path": "VOL_03_WORKERS" },
+      { "title": "Vol 04: Dispatch", "path": "VOL_04_DISPATCH" },
+      { "title": "Vol 05: Protocol", "path": "VOL_05_PROTOCOL" }
+    ]
+  },
+  {
+    "title": "Division II: Identity & Economy",
+    "pages": [
+      { "title": "Vol 06: Registration", "path": "VOL_06_REGISTRATION" },
+      { "title": "Vol 07: Wallet", "path": "VOL_07_WALLET" },
+      { "title": "Vol 08: Spark", "path": "VOL_08_SPARK" },
+      { "title": "Vol 09: Sogni Staking", "path": "VOL_09_SOGNI_STAKING" },
+      { "title": "Vol 10: Cost Estimations", "path": "VOL_10_COST_MATH" },
+      { "title": "Vol 11: Security & Encryption", "path": "VOL_11_SECURITY" }
+    ]
+  },
+  {
+    "title": "Division III: Client Architecture",
+    "pages": [
+      { "title": "Vol 12: Singletons", "path": "VOL_12_SINGLETONS" },
+      { "title": "Vol 13: WS State", "path": "VOL_13_WS_STATE" },
+      { "title": "Vol 14: Tab Sync", "path": "VOL_14_TAB_SYNC" },
+      { "title": "Vol 15: Reconnect", "path": "VOL_15_RECONNECT" },
+      { "title": "Vol 16: Optimization", "path": "VOL_16_OPTIMIZATION" }
+    ]
+  },
+  {
+    "title": "Division IV: Image Synthesis",
+    "pages": [
+      { "title": "Vol 17: Diffusion Theory", "path": "VOL_17_DIFFUSION_THEORY" },
+      { "title": "Vol 18: Flux Deep", "path": "VOL_18_FLUX_DEEP" },
+      { "title": "Vol 19: Z-Image Turbo", "path": "VOL_19_ZIMAGE_TURBO" },
+      { "title": "Vol 20: SD 1.5 Stable", "path": "VOL_20_SD15_STABLE" },
+      { "title": "Vol 21: Samplers", "path": "VOL_21_SAMPLERS" }
+    ]
+  },
+  {
+    "title": "Division V: Advanced Control",
+    "pages": [
+      { "title": "Vol 22: CN Canny", "path": "VOL_22_CN_CANNY" },
+      { "title": "Vol 23: CN Depth", "path": "VOL_23_CN_DEPTH" },
+      { "title": "Vol 24: CN Pose", "path": "VOL_24_CN_POSE" },
+      { "title": "Vol 25: CN Scribble", "path": "VOL_24_CN_SCRIBBLE" },
+      { "title": "Vol 26: img2img Math", "path": "VOL_26_IMG2IMG_MATH" },
+      { "title": "Vol 27: Qwen Edit", "path": "VOL_27_QWEN_EDIT" }
+    ]
+  },
+  {
+    "title": "Division VI: WAN Video Engine",
+    "pages": [
+      { "title": "Vol 28: WAN Engine", "path": "VOL_28_WAN_ENGINE" },
+      { "title": "Vol 29: WAN T2V", "path": "VOL_29_WAN_T2V" },
+      { "title": "Vol 30: WAN I2V", "path": "VOL_30_WAN_I2V" },
+      { "title": "Vol 31: WAN S2V", "path": "VOL_31_WAN_S2V" },
+      { "title": "Vol 32: WAN Move", "path": "VOL_32_WAN_MOVE" },
+      { "title": "Vol 33: WAN Replace", "path": "VOL_33_WAN_REPLACE" }
+    ]
+  },
+  {
+    "title": "Division VII: LTX Video Engine",
+    "pages": [
+      { "title": "Vol 34: LTX Theory", "path": "VOL_34_LTX_THEORY" },
+      { "title": "Vol 35: LTX Frame Math", "path": "VOL_35_LTX_FRAME_MATH" },
+      { "title": "Vol 36: LTX Keyframes", "path": "VOL_36_LTX_KEYFRAMES" },
+      { "title": "Vol 37: LTX Variants", "path": "VOL_37_LTX_VARIANTS" },
+      { "title": "Vol 38: Video CN", "path": "VOL_38_VIDEO_CN" }
+    ]
+  },
+  {
+    "title": "Division VIII: Audio Engine",
+    "pages": [
+      { "title": "Vol 39: ACE-Step", "path": "VOL_39_ACE_STEP" },
+      { "title": "Vol 40: Audio Meta", "path": "VOL_40_AUDIO_META" },
+      { "title": "Vol 41: Lyrics", "path": "VOL_41_LYRICS" },
+      { "title": "Vol 42: Audio Variations", "path": "VOL_42_AUDIO_VARIATIONS" }
+    ]
+  },
+  {
+    "title": "Division IX: LLM Cognitive",
+    "pages": [
+      { "title": "Vol 43: OpenAI Compat", "path": "VOL_43_OPENAI_COMPAT" },
+      { "title": "Vol 44: Context 128K", "path": "VOL_44_CONTEXT_128K" },
+      { "title": "Vol 45: Thinking Mode", "path": "VOL_45_THINK_MODE" },
+      { "title": "Vol 46: Stream Chunks", "path": "VOL_46_STREAM_CHUNKS" },
+      { "title": "Vol 47: Tool Schemas", "path": "VOL_47_TOOL_SCHEMAS" }
+    ]
+  },
+  {
+    "title": "Division X: Optimization",
+    "pages": [
+      { "title": "Vol 48: TeaCache", "path": "VOL_48_TEACACHE" },
+      { "title": "Vol 49: Caching", "path": "VOL_49_CACHING" },
+      { "title": "Vol 50: Errors", "path": "VOL_50_ERRORS" },
+      { "title": "Vol 51: Circuit Breaker", "path": "VOL_51_CIRCUIT_BREAKER" }
+    ]
+  }
+]
