@@ -1,57 +1,56 @@
-<div align="center">
-  <img src="https://sogni.ai/logo.png" width="120" height="120" alt="Sogni AI Logo">
-  <h1>Sogni AI</h1>
-  <p><b>Unleash Your Creative Imagination</b></p>
-  <p>The ultimate decentralized ecosystem for professional AI creativity, combining Supernet's power with advanced creative tools.</p>
-</div>
+# Sogni AI Hub
 
-<hr />
+The definitive technical reference and creative ecosystem for decentralized AI generation. This repository hosts the official **Sogni SDK Encyclopedia**—a 52-volume industrial-grade documentation project developed by **Basit**.
 
-## 🌐 Official Resources
+## 🚀 Key Features
 
-| Platform | Description | Link |
-| :--- | :--- | :--- |
-| **Official Website** | Core ecosystem hub | [Visit](https://sogni.ai) |
-| **Sogni Supernet** | Decentralized TPU Compute | [Explore](https://sogni.ai/supernet) |
-| **Sogni Dashboard** | Asset & Token Management | [Manage](https://dashboard.sogni.ai) |
-| **Technical Docs** | 51-Volume Encyclopedia | [Read](https://docs.sogni.ai) |
+- **Technical Encyclopedia**: Comprehensive 52-volume guide covering Foundations, Client Architecture, Image/Video Engines, and Economic Optimization.
+- **Taste Skill v2 UI**: A premium, high-fidelity experience featuring **Liquid Glass** surfaces, cinematic motion, and an asymmetric design system.
+- **Ecosystem Hub**: Direct access to Sogni Supernet, Studio Pro (macOS), Sogni Pocket (iOS), and official social channels.
 
-<br />
+## 🛠️ Technology Stack
 
-## 📱 Applications & Tools
+- **Frontend**: React 19, Vite 8, TypeScript 6
+- **Routing**: React Router 7
+- **Styling**: Vanilla CSS with custom "Cyber-Glassmorphism" tokens
+- **Motion**: Framer Motion 12
+- **Icons**: Lucide React
 
-| Tool | Platform | Link |
-| :--- | :--- | :--- |
-| **Sogni Studio Pro** | macOS (Professional) | [Download](https://sogni.ai/studio) |
-| **Sogni Pocket** | iOS | [Get App](https://sogni.ai/pocket) |
-| **Sogni Web** | Browser | [Launch](https://sogni.ai/sogni-web) |
-| **Sticker Bot** | Multi-platform | [Stickers](https://sogni.ai/sticker) |
-| **Photobooth** | Web | [Photos](https://photobooth.sogni.ai) |
-| **Sogni Chat** | Web | [Chat](https://chat.sogni.ai) |
-| **Makeover** | Web | [Transform](https://makeover.sogni.ai) |
-| **Restoration** | Web | [Enhance](https://restore.sogni.ai) |
-| **Sogni 360** | Web | [POV](https://360.sogni.ai) |
+## 📦 Getting Started
 
-<br />
+### Prerequisites
 
-## 🤝 Community & Socials
+- Node.js (v18 or higher)
+- npm or yarn
 
-Stay updated and join the conversation:
+### Installation
 
-- **Discord**: [Join Community](https://discord.gg/sogni)
-- **X (Twitter)**: [@sogni_ai](https://x.com/sogni.ai)
-- **Telegram**: [Official Channel](https://t.me/sogniai)
-- **Instagram**: [@sogni.ai](https://instagram.com/sogni.ai)
-- **Reddit**: [r/Sogni_Protocol](https://reddit.com/r/Sogni_Protocol)
-- **YouTube**: [Sogni AI Channel](https://youtube.com/@SogniAI)
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/basit/sogni-ai-hub.git
+   ```
+2. Navigate to the project directory:
+   ```bash
+   cd sogni-ai-hub
+   ```
+3. Install dependencies:
+   ```bash
+   npm install
+   ```
+4. Start the development server:
+   ```bash
+   npm run dev
+   ```
 
-<br />
+## 📄 Documentation
 
-## 🏆 Extra
-- **Leaderboard**: [Artist Rankings](https://sogni.ai/leaderboard#artist)
+The core documentation is located in the `src/docs/` directory. Each volume is a high-density Markdown file containing deep technical insights into the Sogni Protocol.
 
-<br />
+## ⚖️ License
 
-<div align="center">
-  <p>Made by <a href="https://basitresume.xyz">Basit</a></p>
-</div>
+This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
+
+---
+
+### Developed by [Basit](https://basitresume.xyz)
+Industrial-grade frontend engineering and technical documentation for the Sogni AI ecosystem.
